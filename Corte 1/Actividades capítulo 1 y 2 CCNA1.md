@@ -79,3 +79,7 @@ Dispositivos: es decir, los dispositivos que intercambian los mensajes.
 - Las políticas que fomentan la competencia entre proveedores para no generar un monopolio de comunicaciones o al proteger la neutralidad de la red y garantizar la privacidad y la seguridad en línea contribuyen a un acceso equitativo y seguro a la infraestructura digital global.
 
 ## Preguntas de lectura: Capítulo 2
+
+La comunicación en una estructura de red puede constar de un dispositivo que requiere enviar un mensaje. El mensaje de origen se denomina como emisor que envía el mensaje de manera codificada a otro dispositivo llamado receptor, el envío se realiza por medio de de un transmisor o canal, para que luego el codificador recibe el mensaje y lo interpreta, lo decodifica.
+Los dispositivos y los medios son los elementos físicos o hardware de la red. Son componentes como una computadora portátil o personal, un switch, el cableado o los medios inalámbricos que se usan para conectar estos dispositivos.
+Los servicios y procesos son los programas de comunicación, el software que proporciona información en respuesta a una solicitud. Los procesos proporcionan la funcionalidad que direcciona y traslada mensajes a través de la red. Como e‐mail hosting o servicios de Web hosting.
