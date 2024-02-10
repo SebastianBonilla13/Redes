@@ -80,5 +80,53 @@ Dispositivos: es decir, los dispositivos que intercambian los mensajes.
 
 ## Preguntas de lectura: Capítulo 2
 
-![Texto alternativo](https://raw.githubusercontent.com/SebastianBonilla13/Redes/main/Corte%201/diagramaPDU.png)
+1. Describir la estructura de una red, incluidos los dispositivos, medios y servicios necesarios para lograr comunicaciones exitosas.
+- La comunicación en una estructura de red puede constar de un dispositivo que requiere enviar un mensaje. El mensaje de origen se denomina como emisor, este envía el mensaje de manera codificada a otro dispositivo llamado receptor. El envío se realiza por medio de de un transmisor o canal, para que luego el receptor reciba el mensaje y lo decodifica.
+Los dispositivos y los medios son los elementos físicos o hardware de la red. Son componentes como una computadora portátil o personal, un switch, el cableado o los medios inalámbricos que se usan para conectar estos dispositivos.
+Los servicios y procesos son los programas de comunicación, el software que proporciona información en respuesta a una solicitud. Los procesos proporcionan la funcionalidad que direcciona y traslada mensajes a través de la red. Como e‐mail hosting o servicios de Web hosting.
+
+2. Comparar y contrastar los siguientes términos: RED, LAN, WAN, INTERNETWORK E INTERNET.
+   LAN: Es una red de área local que se caracteriza por
+- Cubrir una única área geográficamente.
+- Abastece a una estructura organizacional común.
+- Suele estar conectada mediante cables o inalámbricamente.
+- La administración y control es implementado a nivel de red, directo y local.
+
+WAN: Es una red de área amplia que generalmente se compone de múltiples redes de área local interconectadas.
+- Cubre un área geográficamente dispersa.
+- La interconexión de 2 o más redes LAN se realiza mediante un proveedor de internet ISP.
+- La configuración, instalación y mantenimiento de éstos son aptitudes del ISP.
+- Permiten intercambio de e‐mails, capacitación corporativa y acceso a recursos dentro de organización .
+- Utiliza tecnologías como líneas alquiladas, circuitos conmutados o conexiones VPN.
+
+INTERNETWORK: Es una colección de redes interconectadas.
+- Las redes pueden ser públicas o privadas.
+- Puede abarcar redes LAN, WAN y otras redes intermedias.
+- La conexión se realiza por medio de protocolos de enrutamiento. 
+- La Internetwork más conocida y utilizada es Internet.
+
+INTERNET: Esa una red que se basa en el protocolo IP, en donde utiliza diversas redes, incluidas las LAN y WAS. Es la red más grande y global de todas.
+   
+3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
+- Se refiere a la infraestructura de interconexión de múltiples redes individuales, utilizando dispositivos como routers para permitir la comunicación entre ellas, donde se pueden incluir redes LAN, WAN  y demás. Por otro lado, el internet es específicamente la red global dentro de esa infraestructura utilizando el protocolo IP para la comunicación y el intercambio de información entre dispositivos de todo el mundo.
+   
+4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e interfaz de red.
+- La tarjeta de interfaz de red es el hardware que permite la conexión física de un dispositivo a la red, el cual tiene controladores de software para que el dispositivo envíe y reciba datos a través de la red. Por otro lado el puerto físico es un punto  de conexión físico en un dispositivo de red donde se conecta un cable de red, por ejemplo, el puerto Ethernet y por último, la interfaz de red es el software que permite a un dispositivo comunicarse con una red.
+   
+5. ¿Por qué se dice que un protocolo es independiente de la tecnología?
+- Porque un protocolo es un estándar, lo cual significa que es un conjunto de reglas y convenciones que se deben de seguir para permitir que independientemente de la tecnología se logre la interoperabilidad, debido a esto se dice que la tecnología se debe de adaptar al protocolo y no al contrario.
+
+6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo (PDU).
+- El PDU es la forma que adopta una sección de datos en cualquier capa, cada capa encapsula las PDU que recibe de la capa anterior de acuerdo al protocolo que se utiliza y en cada una de estas capas el PDU recibe un nombre diferente para reflejar su nuevo aspecto.
+
+7. Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
+- La función de los protocolos en las comunicaciones de redes es permitir la definición de conjuntos de reglas que permitan la comunicación y la transferencia de datos entre los dispositivos de una red. El proceso de encapsulamiento de los datos es una técnica que se utiliza para agregar encabezados con información para el control de los datos en cada capa del modelo OSI.
+ ![Ilustración PDU](https://raw.githubusercontent.com/SebastianBonilla13/Redes/main/Corte%201/diagramaPDU.png)
+
+8. Describir la diferencia entre los modelos de protocolo y modelos de referencia.
+- La diferencia entre los modelos de protocolo y los modelos de referencia radica en su nivel de detalle y enfoque. Los modelos de protocolo se centran en la implementación específica de los protocolos de comunicación, mientras que los modelos de referencia proporcionan una visión más amplia y conceptual de la estructura y el funcionamiento de las redes de computadoras.
+
+10. Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
+
+
 
