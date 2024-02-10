@@ -79,3 +79,6 @@ Dispositivos: es decir, los dispositivos que intercambian los mensajes.
 - Las políticas que fomentan la competencia entre proveedores para no generar un monopolio de comunicaciones o al proteger la neutralidad de la red y garantizar la privacidad y la seguridad en línea contribuyen a un acceso equitativo y seguro a la infraestructura digital global.
 
 ## Preguntas de lectura: Capítulo 2
+
+<span>![</span><span>Aquí la descripción de la imagen por si no carga</span><span>]</span><span>(</span<span>https://raw.githubusercontent.com/SebastianBonilla13/Redes/main/Corte%201/diagramaPDU.png</span><span>)</span>
+
