@@ -80,5 +80,5 @@ Dispositivos: es decir, los dispositivos que intercambian los mensajes.
 
 ## Preguntas de lectura: Capítulo 2
 
-<span>![</span><span>Aquí la descripción de la imagen por si no carga</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/SebastianBonilla13/Redes/main/Corte%201/diagramaPDU.png</span><span>)</span>
+![Ilustración PDU]([ruta/a/la/imagen.png](https://raw.githubusercontent.com/SebastianBonilla13/Redes/main/Corte%201/diagramaPDU.png)https://raw.githubusercontent.com/SebastianBonilla13/Redes/main/Corte%201/diagramaPDU.png)
 
