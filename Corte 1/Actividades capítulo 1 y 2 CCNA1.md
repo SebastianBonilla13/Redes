@@ -127,6 +127,24 @@ INTERNET: Esa una red que se basa en el protocolo IP, en donde utiliza diversas 
 - La diferencia entre los modelos de protocolo y los modelos de referencia radica en su nivel de detalle y enfoque. Los modelos de protocolo se centran en la implementación específica de los protocolos de comunicación, mientras que los modelos de referencia proporcionan una visión más amplia y conceptual de la estructura y el funcionamiento de las redes de computadoras.
 
 10. Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
+- El modelo TCP/IP determina cuatro categorías de funciones.
+    * Aplicación: Representa datos para el usuario más el control de codificación y de diálogo.
+    * Transporte: Admite la comunicación entre distintos dipositivos de distintas redes.
+    * Internet: Determina la mejor ruta a través de la red.
+    * Acceso a la red: Controla los dispositivos del hardware y los medio que forman la red.
+
+- El modelo OSI contiene 7 capas.
+    * 7 Aplicación: Proporciona los medios para la conectividad.
+    * 6 Presentación: Representa los datos de forma común.
+    * 5 Sesión: Organiza el diálogo y administra el intercambio de datos.
+    * 4 Transporte: Servicios para segmentar, transferir y reensamblar los datos.
+    * 3 Red: Servicios para intercambiar datos entre dispositivos finales.
+    * 2 Enlace de datos: Servicios para intercambiar tramas de datos.
+    * 1 Física: Medios mecánicos, eléctricos, funcionales para mantener las conexiones físicas.
+    
+  
+    
+
 
 
 
