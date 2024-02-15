@@ -74,7 +74,7 @@ Para recibir e‐mails desde un servidor de e‐mail, el cliente de correo elect
 ![Ilustración nslookup1](https://raw.githubusercontent.com/SebastianBonilla13/Redes/main/Corte%201/nslookup1.png)
 
 9. Conectado a la red de la Universidad del Cauca y utilizando la utilidad nslookup obtener manualmente la URL asociada a las siguientes direcciones IP:10.200.1.250, 10.20.5.11, 10.20.4.43.
-  ![Ilustración nslookup2](https://raw.githubusercontent.com/SebastianBonilla13/Redes/main/Corte%201/nslookup2.png)
+  ![Ilustración nslookup2](https://raw.githubusercontent.com/SebastianBonilla13/Redes/main/Corte%201/nsloookup2.png)
 
 ## Preguntas de lectura: Capítulo 4
 1. Describir las funciones de la capa de Transporte.
